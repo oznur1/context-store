@@ -1,13 +1,16 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # context-store
+Product listing and filtering features have been added. Add to cart and payment process has been optimized. Notifications and redirects have been provided to improve user experience. Design and performance focused improvements have been made.
+
+
+# Technologies Used
+React: For application development.
+React Router: For transition between pages.
+React Context API: For global state management.
+Axios: For performing API requests.
+React Icons: For icon support.
+Bootstrap: For responsive design.
+React Toastify: Toast notifications to inform the user about transactions.
+
+# ScreenShot
+
+![EkranKayd2025-03-12143558-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/34cab756-004d-4d40-9174-542a8e251bc8)
